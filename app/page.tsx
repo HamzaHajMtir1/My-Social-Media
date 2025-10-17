@@ -170,11 +170,6 @@ export default function Home() {
                       <Icon className="w-7 h-7 sm:w-8 sm:h-8 text-gray-700 dark:text-gray-300 transition-all duration-500 group-hover:scale-110" />
                     )}
                 </div>
-
-                {/* Tooltip */}
-                <span className="absolute -bottom-10 left-1/2 -translate-x-1/2 px-3 py-1.5 bg-gray-900/90 dark:bg-white/90 text-white dark:text-gray-900 text-xs font-medium rounded-lg opacity-0 group-hover:opacity-100 transition-all duration-300 whitespace-nowrap backdrop-blur-sm">
-                  {social.name}
-                </span>
               </a>
             );
           })}
