@@ -144,7 +144,7 @@ export default function Home() {
 
         {/* Tagline */}
         <p className="text-lg sm:text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-10 text-center max-w-2xl font-light">
-          Full Stack Developer | Cloud Computing Student
+          Software Engineer at Glorea Career | Cloud Computing Student
         </p>
 
         {/* Social Media Icons */}
